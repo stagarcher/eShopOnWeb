@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 3bde433d-e9bb-4852-86a8-06ef04cb3361
-  WEBAPP-NAME: eshoponweb-webapp-matthewstein
+  WEBAPP-NAME: eshoponweb-webapp-matthewstein1
 
 
 jobs:
